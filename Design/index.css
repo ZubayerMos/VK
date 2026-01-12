@@ -11,7 +11,14 @@
   
 }
 .btn{
-    color: #FFFFFF;
+    font-size: 20px;
+    font-weight: semi bold;
+    border: none;
+    padding:10px 25px;
+    background-color: #469165;
+    border-radius: 5px;
+    color: white;
+    margin: 0 auto;
 }
 
 .logo{
