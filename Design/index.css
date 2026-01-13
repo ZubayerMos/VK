@@ -99,3 +99,39 @@ nav a{
     border-radius: 5px;
     
 }
+.Notes{
+    padding: 20px;
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.paragraph{
+    font-size: 20px;
+    text-align: center;
+    justify-content: space-between;
+    /* margin-top: 10; */
+
+    
+}
+.box{
+   display: flex;
+    justify-content: space-between;
+    gap: 30px;
+    /* width: 80%; */
+    margin: 60px auto;
+
+}
+.pic{
+   display: flex;
+   align-items: center;
+   flex-direction: column;
+   gap: 10px;
+   text-align: center;
+   margin: 0 auto;
+   width: 20px;
+   border-radius: 10px;
+   background: #FFFFFF;
+}
+
+
