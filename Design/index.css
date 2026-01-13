@@ -24,7 +24,7 @@
 }
 
 .logo{
-    font: size 25px; ;
+    font: size 25px; 
 }
 
 
@@ -150,7 +150,7 @@ nav a{
 }
 .solution h6{
     font-size:16px ;
-    font-weight: medium ;
+    font-weight:150px;
     color: #30B868;
 }
 .solution h1{
@@ -166,7 +166,6 @@ nav a{
     margin:0 auto ;
     padding: 150px;
     width: 150;
-
     text-align: center;
 }
 .ready h1{
@@ -194,7 +193,7 @@ nav a{
     background-color:#001931;
     color:#628263 ;
     font-size: 20px;
-    font-weight: Medium ;
+    font-weight: 150 ;
     
 }
 .done p{
