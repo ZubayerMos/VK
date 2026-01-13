@@ -12,7 +12,7 @@
 }
 .btn{
     font-size: 20px;
-    font-weight: semi bold;
+    font-weight: 150px;
     border: none;
     padding:10px 25px;
     background-color: #469165;
@@ -24,7 +24,7 @@
 }
 
 .logo{
-    font: size 25px; 
+    font-size:  25px; 
 }
 
 
@@ -165,7 +165,7 @@ nav a{
 .ready{
     margin:0 auto ;
     padding: 150px;
-    width: 150;
+    /* width: 50px; */
     text-align: center;
 }
 .ready h1{
