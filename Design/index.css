@@ -197,7 +197,9 @@ nav a{
     font-weight: Medium ;
     
 }
-
+.done p{
+    text-align: center;
+}
     
 
 
