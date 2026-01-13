@@ -129,9 +129,77 @@ nav a{
    gap: 10px;
    text-align: center;
    margin: 0 auto;
-   width: 20px;
+   width: 250px;
    border-radius: 10px;
-   background: #FFFFFF;
+   padding: 20px;
+   background: #FFFFFF;   
 }
+.rong{
+    background:#F95555 ;
+}
+.knowledge{
+    margin: 0 auto;
+    width: 500px;
+    
+    
+}
+.solution{
+    display: flex;
+    align-items: center;
+
+}
+.solution h6{
+    font-size:16px ;
+    font-weight: medium ;
+    color: #30B868;
+}
+.solution h1{
+    font-size: 48px;
+    font-weight: bold;
+    color:#001931 ;
+}
+.solution p{
+    font-size: 16px;
+    color: #627382;
+}
+.ready{
+    margin:0 auto ;
+    padding: 150px;
+    width: 150;
+
+    text-align: center;
+}
+.ready h1{
+    align-items: center;
+    font-size: 40px;
+    font-weight: bold;
+    color:black;
+}
+.ready p{
+    font-size: 16px;
+    color: #627382
+}
+.last{
+    border-radius: 5px;
+
+   background-color: #469165;
+   color: white;
+   font-size: 15px;
+}
+.done{
+    display: flex;
+    padding: 150px;
+    margin: 0 auto;
+    justify-content: space-between;
+    background-color:#001931;
+    color:#628263 ;
+    font-size: 20px;
+    font-weight: Medium ;
+    
+}
+
+    
+
+
 
 
